@@ -23,7 +23,7 @@
 - Tab completion types the backslashes for me.
 
 ## What confused me
-[i am getting connfused with linux but i am getting throught it]
+I am getting confused with Linux, but I am getting through it.
 
 ## Next
 Bandit level 3, then keep going toward level 15.
