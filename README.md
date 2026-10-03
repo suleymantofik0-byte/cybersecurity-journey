@@ -1,10 +1,10 @@
 # Cybersecurity Journey
 
-Hi, I'm Sueyman, based in Ethiopia and studying toward becoming a **Junior SOC (Security Operations Center) Analyst**. This repository is where I document my daily learning journey: what I study, what I understand, and what I still need to practice.
+Hi, I'm Suleyman, studying toward becoming a **Junior SOC (Security Operations Center) Analyst**, and open to remote opportunities (UTC+3). This repository is where I document my daily learning journey: what I study, what I understand, and what I still need to practice.
 
 ## Goals
 
-- [ ] Earn **CompTIA Network+** (current target)
+- [ ] Complete **CompTIA Network+** material (self-study)
 - [ ] Earn **CompTIA Security+** (current target)
 - [ ] Build hands-on skills with SIEM tools, log analysis, and incident response basics
 - [ ] Land a Junior SOC Analyst role
