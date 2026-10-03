@@ -23,7 +23,7 @@
 - Tab completion types the backslashes for me.
 
 ## What confused me
-I am getting confused with Linux, but I am getting through it.
+I didn't understand why `cat -` hung until I learned that a lone dash means keyboard input. I also got stuck on the path syntax like `./`, and Level 1 took me many tries.
 
 ## Next
 Bandit level 3, then keep going toward level 15.
