@@ -21,6 +21,7 @@ Each entry is a short study note. Newest entries go at the bottom.
 | 2026-10-03 | Data Link Layer    | [Read entry](logs/2026-10-03-data-link-layer.md) |
 | 2026-10-03 | Networking Devices | [Read entry](logs/2026-10-03-networking-devices.md) |
 | 2026-10-03 | Bandit Levels 0-2 (SSH + file names) | [Read entry](logs/2026-10-03-bandit-levels-0-2.md) |
+| 2026-10-22 | Bandit 3-7, Networking, TryHackMe | [Read entry](logs/2026-10-22-bandit-3-7-and-networking.md) |
 
 ---
 
