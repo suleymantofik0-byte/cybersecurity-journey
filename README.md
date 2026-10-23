@@ -1,6 +1,6 @@
 # Cybersecurity Journey
 
-Hi, I'm Suleyman, studying toward becoming a **Junior SOC (Security Operations Center) Analyst**, with a long-term goal of becoming a strong attacker-defender. I'm open to remote opportunities (UTC+3). This repository is where I document my daily learning journey: what I study, what I understand, and what I still need to practice.
+Hi, I'm Suleyman, studying toward becoming a **application and cloud security**, with a long-term goal of becoming a strong attacker-defender. I'm open to remote opportunities (UTC+3). This repository is where I document my daily learning journey: what I study, what I understand, and what I still need to practice.
 
 ## Goals
 
@@ -9,7 +9,7 @@ Hi, I'm Suleyman, studying toward becoming a **Junior SOC (Security Operations C
 - [ ] Build hands-on skills: Linux, Python, Wireshark, Nmap, web hacking
 - [ ] Build a home lab and practice detecting my own attacks in the logs
 - [ ] Build hands-on skills with SIEM tools, log analysis, and incident response basics
-- [ ] Land a Junior SOC Analyst role
+- [ ] Land a first remote security-related role (developer, IT support, or security-adjacent)
 
 ## Progress Log
 
