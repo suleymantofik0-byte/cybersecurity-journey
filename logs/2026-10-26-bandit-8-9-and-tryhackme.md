@@ -22,8 +22,5 @@
 - I registered for a local cybersecurity discussion event but had a class at that
   time. Lesson: check my timetable before registering.
 
-## What confused me
-[2-3 SENTENCES IN MY OWN WORDS]
-
 ## Next
 Bandit level 10, TryHackMe "What is Networking?", and my first Python tool.
