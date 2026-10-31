@@ -5,11 +5,7 @@
 - Level 10: the file was base64-encoded, not encrypted. base64 -d decoded it.
   Base64 isn't a secret, it's a public way to write binary data as text so it
   can travel through systems built for plain text (like email).
-- Level 11: the file was encrypted with ROT13, a cipher that shifts each letter
-  13 places through the alphabet. I built tr 'A-Za-z' 'N-ZA-Mn-za-m' by writing
-  out both alphabets on paper first: normal A-Z on one line, then the same
-  alphabet starting at N underneath, wrapping around after Z. Running it twice
-  returns the original text, since 13 + 13 = 26.
+- Level 11: the file was ROT13 (each letter rotated 13 places). I did not solve it on Oct 27; I finished it on Oct 29. tr lines up two character sets position by position: tr 'A-Za-z' 'N-ZA-Mn-za-m'. I tested it on the word hello, which gave uryyb, before running it on the file. Running ROT13 twice returns the original text.
 
 ## TryHackMe: What is Networking?
 - MAC address spoofing: a router in the lab only let in a specific allowed MAC
